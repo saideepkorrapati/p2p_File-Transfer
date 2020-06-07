@@ -1,0 +1,17 @@
+javac Chunk_File.java
+javac Server_P.java
+
+javac Client_P1.java
+javac Client_P2.java
+javac Client_P3.java
+javac Client_P4.java
+javac Client_P5.java
+
+
+java Server_P
+
+java Client_P1
+java Client_P2
+java Client_P3
+java Client_P4
+java Client_P5
